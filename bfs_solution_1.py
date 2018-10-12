@@ -1,9 +1,3 @@
-# KRISTI GJONI
-# HOMEWORK 4
-# CS 411 - Artificial Intelligence
-# 09/28/2018
-
-
 import sys
 import time
 import random
