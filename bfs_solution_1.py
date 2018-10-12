@@ -1,3 +1,5 @@
+# Solution to the 15 Puzzle game using Breadth First Search
+
 import sys
 import time
 import random
