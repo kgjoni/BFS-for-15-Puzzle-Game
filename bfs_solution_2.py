@@ -1,8 +1,3 @@
-#CS 411 - Assignment 4 Solution
-#Breadth First Search on 15 Puzzle
-#Sarit Adhikari
-#2018 Fall
-
 import random
 import math
 import time
